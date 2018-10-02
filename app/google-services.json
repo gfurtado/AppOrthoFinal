@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1086935305902",
+    "firebase_url": "https://apportho-d6917.firebaseio.com/",
+    "project_id": "apportho-d6917",
+    "storage_bucket": "apportho-d6917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086935305902:android:ca219ff074fb8427",
+        "android_client_info": {
+          "package_name": "com.paulocauca.apportho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086935305902-t2uc6qjjjofmk3hnlbbocgugn9gerv37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKbFwrcEGy3IT7ZL-SAlmPITyO0V7K5nU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
